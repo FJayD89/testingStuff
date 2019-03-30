@@ -1,0 +1,8 @@
+Alpha 3
+The version in which I try and hopefully don't fail to implement the joystick
+New content :
+Joystick
+ - Just copied from circleHitbox, doesn't actually control yet
+More variable explainers
+The ultimPytag() function(2 points, gives distance)
+ - Eliminates need for the joyMouse varables
